@@ -1,8 +1,12 @@
-# React + Vite
+# React E-Commerce Boost
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
 
-Currently, two official plugins are available:
+React E-Commerce Boost is a project focused on enhancing the performance of React-based e-commerce applications. It demonstrates practical applications of React hooks such as `memo`, `useMemo`, `useCallback`, and Lazy Loading, along with WebSockets for real-time updates.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **memo and useMemo**: Optimize component rendering.
+- **useCallback**: Improve performance of callback functions.
+- **Lazy Loading**: Efficiently load images and components.
+- **WebSockets**: Real-time updates for stock, pricing, and reviews.
